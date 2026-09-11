@@ -66,6 +66,9 @@ export const backendConfig = [
     }, {
         label: '肥羊提供-备用后端',
         value: 'https://api.v1.mk/sub?'
+    },{
+        label: 'sky提供-备用后端',
+        value: 'https://subconverter.skyow.com:8888/sub?'
     }, {
         label: '自建服务',
         value: 'http://localhost:25500/sub?'
