@@ -151,8 +151,8 @@ export const externalConfig = [{
         label: '谷歌优化版-服务分离',
         value: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Google.ini'
     }, {
-        label: 'AI分组版-sky定义',
-        value: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online_MultiCountry.ini'
+        label: 'AI分组版-sky定制版',
+        value: 'https://raw.githubusercontent.com/sky300/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online_MultiCountry.ini'
     }, {
         label: '本地默认版',
         value: 'config/ACL4SSR.ini'
