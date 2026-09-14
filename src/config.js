@@ -68,7 +68,7 @@ export const backendConfig = [
         value: 'https://api.v1.mk/sub?'
     },{
         label: 'sky提供-备用后端',
-        value: 'https://subconverter.skyow.com:8888/sub?'
+        value: 'https://subconverter.542587.xyz:8888/sub?'
     }, {
         label: '自建服务',
         value: 'http://localhost:25500/sub?'
